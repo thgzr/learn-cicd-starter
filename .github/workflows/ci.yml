@@ -23,5 +23,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Formatting issues test1.
+      - name: Formatting issues test1111111111111111111.
         run: test -z $(go fmt ./...)
